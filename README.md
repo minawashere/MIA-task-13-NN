@@ -1,3 +1,5 @@
+#Copied from https://github.com/mnielsen/neural-networks-and-deep-learning
+
 # MIA-task-13-NN
 I used the code provided with the book with small modifications to work with pyhon3.12
 
