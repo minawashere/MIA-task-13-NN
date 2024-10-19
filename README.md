@@ -1,7 +1,6 @@
-#Copied from https://github.com/mnielsen/neural-networks-and-deep-learning
+## Copied from https://github.com/mnielsen/neural-networks-and-deep-learning
 
-# MIA-task-13-NN
-I used the code provided with the book with small modifications to work with pyhon3.12
+I used the code provided with the [book](http://neuralnetworksanddeeplearning.com/chap1.html) with small modifications to work with pyhon3.12
 
 ---
 - First run with 30 layers, batch size = 10, and learning rate = 3.0
